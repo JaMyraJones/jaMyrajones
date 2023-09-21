@@ -13,6 +13,5 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[linkedin]: https://linkedin.com/in/Josh
+[<img align="left" alt="Jamyra | LinkedIn" width="22px" src="www.linkedin.com/in/jamyra-rd-jones-41b811264" />][linked
+[linkedin]: www.linkedin.com/in/jamyra-rd-jones-41b811264
